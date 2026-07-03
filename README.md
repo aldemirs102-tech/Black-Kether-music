@@ -1,0 +1,206 @@
+[index.html](https://github.com/user-attachments/files/29651171/index.html)
+<!Doctype html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width", initial-scale="1.0">
+
+<link rel="icon" href="src/Clave de sol de luxo.png" type="image/x-icon" width="48px" height="48px">
+
+<link rel="stylesheet" type="text/css" href="src/style.css">
+
+<title> Black Kether music </title>
+
+<body>
+
+     <div class="h1">
+
+     <h1> Black Kether music </h1>
+
+     </div>
+
+     <div class="video" type="video/mp4">
+
+     <a href="https://youtu.be/EI4wazXIPUU?si=Y1EcqFnAuX6ioJxi">
+
+     <video src="src/video do aldemir no teatro.mp4" autoplay muted playsinline loop width="705px" height="666px">
+
+     </a>
+
+    </video>
+
+     </div>
+
+     <div class="background">
+
+     <img src="src/background com bunner.png" alt="Background-img" height="2016px">
+
+    </img>
+
+    </div>
+
+    <div class="button-1">
+
+    <a href="https://www.youtube.com/@Black_Kether_music" target="_self">
+     
+    <img src="src/Botão youtube 3D.png" alt="Youtube" width="100px" height="100px">
+    
+    </img>
+
+   </a>
+
+   </div>
+
+    <div class="button-2">
+
+    <a href="https://wa.me/message/2XRN2JZWOCM6I1" target="_self">
+     
+    <img src="src/Botão do whatsapp 3D.png" alt="whatsapp" width="100px" height="100px">
+    
+    </img>
+
+   </a>
+   
+   </div>
+
+   <div class="button-3">
+
+    <a href="https://a.co/d/0dLvap6a" target="_self">
+     
+    <img src="src/A logo da loja 3D sem fundo.png" width="100px" height="100px">
+
+    </img>
+    
+   </a>
+
+   </div>
+
+   <div class="button-4">
+
+    <a href="https://amzn.to/48YlaIa" target="_self">
+     
+    <img src="src/A logo da loja 3D sem fundo.png" alt="Loja 2" width="100px" height="100px">
+   
+    </img>
+    
+   </a>
+
+   </div>
+
+    <div class="button-5">
+
+    <a href="https://www.instagram.com/black_kether?igsh=YTRpdWNieDMObGh6" target="_self">
+     
+    <img src="src/Botão do instagram 3D.png" alt="instagram" width="100px" height="100px">
+     
+    </img>
+
+   </a>
+
+   </div>
+
+   <div class="button-6">
+
+    <a href="https://www.amazon.com.br/dp/B0GGY43Q5Y" target="_self">
+     
+    <img src="src/Biblioteca digital 3D.png" alt="biblioteca digital" width="100px" height="100px">
+   
+    </img>
+
+   </a>
+
+   </div>
+
+    <div class="button-7">
+
+    <a href="https://www.youtube.com/channel/UCyFkjOo_YZhywjvbquegebw" target="_self">
+     
+    <img src="src/Botão youtube 3D.png" alt=" youtube" width="100px" height="100px">
+   
+    </img>
+    
+   </a>
+
+   </div> 
+
+   <div class="h2">
+
+    <h2> Canal do youtube </h2>
+
+    </div>
+
+    <div class="h3">
+
+    <h3> Contrate pelo whatsapp </h3>
+
+    </div>
+
+   <div class="h4">
+
+    <h4> Black Kether </h4>
+
+    </div>
+
+   <div class="h5">
+
+    <h5> Black Kether </h5>
+
+    </div>
+
+   <div class="h6">
+
+   <h6> Instagram </h6>
+
+   </div>
+
+   <div class="h7">
+
+    <h7> Biblioteca Digital </h7>
+
+   </div>
+
+   <div class="h8">
+
+   <h8> Canal do youtube </h8>
+
+   </div>
+
+   <div class="h9">
+     
+   <h9> Os músicos do audiovisual </h9>
+
+   </div>
+
+   <div class="p">
+
+    <p> O músico no cinema tem um papel essencial: ele transforma imagens em emoção. Uma cena pode ser bonita visualmente, mas é a música que intensifica sentimentos como suspense, alegria, tristeza ou esperança. Muitas vezes, uma trilha sonora marcante faz o público lembrar de um filme por anos, criando uma conexão emocional profunda com a história. Valorizar o músico no cinema é reconhecer a arte que dá vida às cenas e torna cada experiência inesquecível. </p>
+
+   </div>
+
+   <a href=" https://aldemirs102-tech.github.io/Black-Kether-music/">
+
+   <div class="img-Clave">
+
+   <img src="src/Clave de sol de luxo.png" alt="Clave de sol" width="300px" height="300px">
+   
+   </a>
+
+   </div>
+
+<div class="background-Rodape">
+
+<img src="src/rodape do site.png" alt="Rodape do site" height="712px">
+
+</img>
+
+</div>
+
+</head>
+
+</body>
+
+</html>
