@@ -1,0 +1,551 @@
+
+    .h1 {
+
+        position: absolute;
+        top: min(478%,478px);
+        left: min(835%,835px);
+        font-size: min(28px,28px);
+        z-index: 2;
+        white-space: nowrap;
+        font-family: georgia,serif
+
+     }
+
+     .h1 {
+
+         color: black;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: white;        
+         text-shadow:
+
+         0 0 5px  white,
+         0 0 10px white,
+         0 0 20px white;
+
+         display: flex;
+         gap: 5px;
+         display-direction: row;
+         align-items: center;
+         justify-content: center;
+         flex-wrap: nowrap;
+         text-wrap: nowrap;
+
+     }
+
+   .h2 {
+
+    position: absolute;
+    z-index: 2;
+    top: min(708%,708px);
+    left: min(146%,146px);
+    text-wrap: nowrap;
+    font-size: min(120%,120px);
+    font-family: georgia,serif;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    
+    }
+
+    .h2 {
+
+     color: white;
+    -webkit-text-stroke-width: 0.1%;
+    -webikt-text-stroke-color: black;
+     text-shadow:
+
+     0 0 5px  black,
+     0 0 5px  black,
+     0 0 5px  white;
+
+     display: flex;
+     display-direction: row;
+     gap: 5px;
+
+    }
+
+   .h3 {
+
+      position: absolute;
+      z-index: 2;
+      top:  min(836%,836px);
+      left: min(148%,148px);
+      font-size: min(120%,120px);
+      white-space: nowrap;
+      font-family: georgia,serif
+      
+   }
+
+   .h3 {
+
+       color: white;
+      -webkit-text-stroke-width: 0.1%;
+      -webkit-text-stroke-color: black;
+       text-shadow:
+
+       0 0 5px  black,
+       0 0 5px  black,
+       0 0 5px  white;
+
+       display-direction: row;
+       align-items: center;
+       justify-content: center;
+       flex-wrap: nowrap;
+       text-wrap: nowrap;
+       gap: 5px;
+
+   }
+
+   .h4 {
+
+      position: absolute;
+      z-index: 2;
+      top: min(933%,933px);
+      left: min(150%,150px);
+      font-size: 40px;
+      white-space: nowrap;
+      font-family: georgia,serif
+
+   }
+   
+   .h4 {
+
+      display-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: nowrap;
+      text-wrap: nowrap;
+      gap: 5px;
+
+   }
+
+   .h4 {
+
+      color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: black;
+      text-shadow:
+      0 0 5px  black,
+      0 0 5px  black,
+      0 0 5px  white;
+
+   }
+
+   .h5 {
+     
+      position: absolute;
+      z-index: 2;
+      top: min(1037%,1037px);
+      left: min(150%,150px);
+      font-size: 48px;
+      white-space: nowrap;
+      font-family: georgia,serif
+          
+   }
+
+   .h5 {
+
+      display-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: nowrap;
+      text-wrap: nowrap;
+      gap: 5px; 
+   
+   }
+   .h5 {
+
+      color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: black;
+      text-shadow:
+      0 0 5px black,
+      0 0 5px black,
+      0 0 5px white;
+
+   }
+
+   .h6 {
+     
+      z-index: 2;
+      font-size: 70px;
+      white-space: nowrap;
+      font-family: georgia,serif 
+      
+   }
+
+   .h6 {
+
+      position: absolute;
+      top: min(1094%,1094px);
+      display-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: nowrap;
+      text-wrap: nowrap;
+      gap: 5px;
+      left: min(150%,150px);
+
+   }
+
+   .h6 {
+
+       color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: black;
+      text-shadow:
+      0 0 5px  black,
+      0 0 5px  black,
+      0 0 5px  white;
+
+   }
+
+   .h7 {
+
+      position: absolute;
+      z-index: 2;
+      top:  min(1327%,1327px);
+      left: min(150%,150px);
+      font-size: 35px;
+      white-space: nowrap;
+      font-family: georgia,serif
+
+   }
+
+   .h7 {
+
+      display-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: nowrap;
+      text-wrap: nowrap;
+      gap: 5px;
+      color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: black;
+       text-shadow:
+       0 0 5px  black,
+       0 0 5px  black,
+       0 0 5px  white;
+
+   }
+      
+   .h8 {
+      position: absolute;
+      z-index: 2;
+      top:  min(1450%,1450px);
+      left: min(150%,150px);
+      font-size: 35px;
+      white-space: nowrap;
+      font-family: georgia,serif
+
+   }
+
+   .h8 {
+
+       color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: black;
+       text-shadow:
+      0 0 5px  black,
+      0 0 5px  black,
+      0 0 5px  white;
+
+   }
+
+   .h9 {
+
+      position: absolute;
+      z-index: 2;
+      top: min(730%,730px);
+      left: min(650%,650px);
+      font-size: 35px;
+      white-space: nowrap;
+      font-family: georgia,serif
+
+   }
+
+   .h9 {
+
+      display-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: nowrap;
+      text-wrap: nowrap;
+      gap: 5px;
+
+   }
+
+   .h9 {
+
+       color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: white;
+       text-shadow:
+       0 0 5px  black,
+       0 0 10px white,
+       0 0 20px black;
+
+   }
+
+   .p {
+
+      position: absolute;
+      z-index: 2;
+      top: min(766%,766px);
+      left: min(520%,520px);
+      font-size: 30px;
+      font-family: georgia,serif
+
+   }
+
+   .p {
+
+       color: white;
+      -webkit-text-stroke-width: 0.0.1px;
+      -webkit-text-stroke-color: white;
+       text-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      gap: 5px;
+      width:  min(400%,800px);
+      height: min(1000%,1000px);
+
+   }
+
+     .video {
+           
+        video: url("src/video do aldemir no teatro.mp4");
+        position: absolute;
+        top: 2.10%;
+        left: min(270%,270px);
+        z-index: 2;
+        display: flex;
+        object-fit: cover;
+
+     }
+
+     .button-1 {
+
+      img: url("src/Botão youtube 3D.png");
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+      gap: 5px;
+      top: min(700%,700px);
+      width: 100px;
+      left: min(20%,20px);
+
+     }
+
+     .button-1 {
+      
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+
+     }
+
+     .button-1 {
+
+      transition: transform 0.5s ease;
+      display: flex;
+
+     }
+
+      .button-2 {
+
+      img: url("src/Botão whatsapp 3D.png");
+      position: absolute;
+      left: min(20%,20px);
+      cursor: pointer;
+      z-index: 2;
+      align-justify: center;
+      display: flex;
+      gap: 5px;
+
+     }
+
+      .button-2 {
+      
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+      top: min(820%,820px);
+      width: 100px;
+
+     }
+
+      .button-3 {
+
+      img: url("src/A logo da loja 3D sem fundo.png");
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+      gap: 5px;
+      top: min(940%,940px);
+      width: 100px;
+      left: min(20%,20px);
+
+     }
+
+      .button-3 {
+      
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+
+     }
+
+      .button-3 {
+
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+
+      }
+
+      .button-4 {
+
+      img: url("src/A logo da loja 3D sem fundo.png");
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+      gap: 5px;
+      top: min(1060%,1060px);
+      width: 100px;
+      left: min(20%,20px);
+
+      }
+
+      .button-4 {
+      
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+      
+     }
+
+      .button-5 {
+
+      img: url("src/Botão do instagram 3D.png");
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+      gap: 5px;
+      top: min(1180%,1180px);
+      width: 100px;
+      left: min(20%,20px);
+      
+      }
+
+     .button-5 {
+      
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+      
+     }
+
+      .button-6 {
+
+      img: url("src/Biblioteca digital 3D.png");
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+      gap: 5px;
+      top: min(1300%,1300px);
+      width: 100px;
+      left: min(20%,20px);
+
+      }
+
+      .button-6 {
+     
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+
+      }
+
+      .button-7 {
+
+       
+      img: url("src/Biblioteca digital 3D.png");
+      position: absolute;
+      cursor: pointer;
+      z-index: 2;
+      display: flex;
+      gap: 5px;
+      top: min(1420%,1420px);
+      width: 100px;
+      left: min(20%,20px);
+
+      }
+
+      .button-7 {
+     
+      background-color: black;
+      box-shadow:
+      0 0 5px  black,
+      0 0 10px white,
+      0 0 20px black;
+      border-radius: 30px;
+
+      }
+
+    .background-img {
+
+        background-img: url("src/background com bunner.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: 1;
+
+    }
+
+    .img-Clave {
+        
+        img: url("src/Clave de sol de luxo.png");
+        position: absolute;
+        z-index: 2;
+        top:  min(30%,30px);
+        left: min(60%,60px);
+        gap: 5px;
+
+    }
+
+    .background-Rodape {
+
+        background-img: url("src/rodape do site.png");
+        position: absolute;
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: 1;
+        Top: 322%;
+    }
