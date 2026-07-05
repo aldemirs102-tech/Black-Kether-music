@@ -549,3 +549,9 @@
         z-index: 1;
         Top: min(2025%,2025px);
     }
+
+     body {
+
+        background-color: black;
+
+    }
